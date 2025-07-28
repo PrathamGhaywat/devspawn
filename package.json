@@ -1,18 +1,25 @@
 {
   "name": "devspawn",
   "version": "1.0.0",
-  "description": "",
+  "description": "CLI tool for creating and running custom development setup shortcuts",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bin": {
     "devspawn": "bin/devspawn.js"
   },
   "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "dev", "shortcuts", "automation", "scaffold"],
+  "author": "Pratham Ghaywat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PrathamGhaywat/devspawn.git"
+  },
+  "engines": {
+    "node": ">=16"
+  },
   "dependencies": {
     "chalk": "^5.4.1",
     "commander": "^14.0.0"

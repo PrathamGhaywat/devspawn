@@ -35,6 +35,10 @@ Done.
 ---
 
 ## 📦 Installation
+Via NPM:
+```bash
+npm install -g devspawn
+```
 
 Clone locally:
 
