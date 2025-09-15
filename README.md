@@ -2,7 +2,7 @@
 
 > Personal shortcut launcher for your development setups  
 > Define once, run anytime — instantly spin up new projects with your favorite tools
-
+Demo: https://drive.google.com/file/d/1B-1_4P3OJ82H4vAj0GKq_kxBtgdKumEX/view?usp=sharing
 # Get started
 ## Run this command to install it globally. Otherwise it won't work!!
 ```bash
