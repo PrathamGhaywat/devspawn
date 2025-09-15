@@ -3,6 +3,12 @@
 > Personal shortcut launcher for your development setups  
 > Define once, run anytime — instantly spin up new projects with your favorite tools
 
+# Get started
+## Run this command to install it globally. Otherwise it won't work!!
+```bash
+npm i devspawn -g
+```
+
 
 ## What is it?
 
